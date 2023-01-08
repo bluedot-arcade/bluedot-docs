@@ -2,7 +2,7 @@ title: BlueDot Documentation
 description: BlueDot products documentation.
 theme: just-the-docs
 
-url: https://bluedot-arcade.github.io/docs
+url: https://bluedot-arcade.github.io/bluedot-docs
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/bluedot-arcade/bluedot-docs
