@@ -1,17 +1,20 @@
-title: Docs
+title: BlueDot Documentation
 description: BlueDot products documentation.
 theme: just-the-docs
 
 url: https://docs.bluedotarcade.com
 
 aux_links:
-  Template Repository: https://github.com/bluedot-arcade/bluedot-docs
-  Test Link: https://helloworld.com
+  Github repository: https://github.com/bluedot-arcade/bluedot-docs
+
+# Color scheme
+color_scheme: bluelight
 
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
 
+# Logo and icon
 logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
 
