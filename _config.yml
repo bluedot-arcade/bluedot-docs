@@ -2,7 +2,21 @@ title: BlueDot Documentation
 description: BlueDot products documentation.
 theme: just-the-docs
 
-url: https://bluedot-arcade.github.io/bluedot-docs
+url: https://docs.bluedotarcade.com
 
 aux_links:
-  Template Repository: https://github.com/bluedot-arcade/bluedot-docs
+  Github repository: https://github.com/bluedot-arcade/bluedot-docs
+
+# Color scheme
+color_scheme: bluelight
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Logo and icon
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
+
+# Footer
+footer_content: "Copyright &copy; 2022-2023 BlueDot Arcade. This site is powered by <a href=\"https://pages.github.com\">Github Pages.</a>"
