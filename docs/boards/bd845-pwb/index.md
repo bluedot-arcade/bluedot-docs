@@ -8,3 +8,5 @@ permalink: /boards/bd845-pwb
 ---
 
 # BD845-PWB
+A clone of the original DanceDanceRevolution GN845-PWB Pad IO Board.
+{: .fs-6 .fw-300 }
