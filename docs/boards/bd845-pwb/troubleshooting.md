@@ -3,7 +3,7 @@ layout: default
 title: Troubleshooting
 grand_parent: Boards
 parent: BD845-PWB
-nav_order: 2
+nav_order: 4
 permalink: /boards/bd845-pwb/troubleshooting
 ---
 

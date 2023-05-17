@@ -3,7 +3,7 @@ layout: default
 title: FAQs
 grand_parent: Boards
 parent: BD845-PWB
-nav_order: 2
+nav_order: 3
 permalink: /boards/bd845-pwb/faqs
 ---
 
