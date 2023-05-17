@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Installation Guide
+title: Installation
 grand_parent: Boards
 parent: BD845-PWB
 nav_order: 1

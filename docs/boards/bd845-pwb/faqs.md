@@ -3,7 +3,7 @@ layout: default
 title: FAQs
 grand_parent: Boards
 parent: BD845-PWB
-nav_order: 2
+nav_order: 3
 permalink: /boards/bd845-pwb/faqs
 ---
 
@@ -74,4 +74,15 @@ The original board provides a very basic debouncing mechanism by using schmitt t
 ## My board is not working. What can I do?
 
 Oh no! Check the [troubleshoot]() page. If that does not help, you can [contact us]().
+
+## Does it pass the IO Check when KSYS573 is booting?
+
+Yes! By being a clone it will work with original hardware and games. The game will boot correctly.
+However there are still some parts of the original communication protocol between the KSYS573 and the
+stage IO that are still not well understood but they are not critical like the IO check during boot.
+
+## Can I upload a custom firmware?
+
+By being an open-source project there is nothing that stops you from uploading a firmware on the MCU.
+Check the dedicated programming guide on how to upload a firmware.
 
