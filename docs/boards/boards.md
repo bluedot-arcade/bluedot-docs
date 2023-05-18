@@ -31,4 +31,3 @@ A clone of the original Konami GN845-PWB(B) Stage I/O board for DDR machines.
 
 
 ![BD845-PWB-Front](../../assets/images/bd845-pwb-front-v1.0.0.png)
-
