@@ -38,7 +38,7 @@ From players, to players. Giving back to the community!
 You can buy our devices from our [shop][BlueDot Shop].
 
 {: .warning }
-> The shop website is currently not available. Please contact us at our [email][BlueDot Email] if you are interested in buying our devices.
+> The shop website is currently not available. Please [contact us][Contacts Page] if you are interested in buying our devices.
 
 Buying our products is the best way to support us!
 
@@ -56,11 +56,11 @@ We open-source our devices so you can repair them if they fail and let you custo
 
 The best way to support us is to buy our devices from our [shop][BlueDot Shop].
 
-But every contribution is welcome! Feel free to contact us at our [email][BlueDot Email] and visit our [GitHub organization][BlueDot GitHub] to access to projects designs and source codes.
+But every contribution is welcome! Feel free to [contact us][Contacts Page] and visit our [GitHub organization][BlueDot GitHub] to access to projects designs and source codes.
 
 [Vincenzo Fortunato]: https://github.com/vinsfortunato
 [Marco Ruggiero]: https://www.instagram.com/ruggiero.design/
 [BlueDot Shop]: shop.bluedotarcade.com
-[BlueDot Email]: mailto:bluedotarcade@gmail.com
 [BlueDot GitHub]: https://github.com/bluedot-arcade/
 [Just the Docs]: https://just-the-docs.com
+[Contacts Page]: /contacts
