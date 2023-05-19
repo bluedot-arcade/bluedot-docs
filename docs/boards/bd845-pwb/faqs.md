@@ -88,7 +88,7 @@ The original board does not provide a debouncing mechanism. The BD845-PWB uses a
 
 ## My board is not working. What can I do?
 
-Oh no! Check the [troubleshooting guide][troubleshooting guide]. If that does not help, you can [contact us]().
+Oh no! Check the [troubleshooting guide]. If that does not help, you can [contact us].
 
 ## Does it pass the IO Check when KSYS573 is booting?
 
@@ -99,9 +99,10 @@ stage IO that are still not well understood but they are not critical like the I
 ## Can I upload a custom firmware?
 
 By being an open-source project there is nothing that stops you from uploading a firmware on the MCU.
-Check the dedicated [programming guide][programming guide] on how to upload a firmware.
+Check the dedicated [programming guide] on how to upload a firmware.
 
 
 
 [programming guide]: /boards/bd845-pwb/programming
 [troubleshooting guide]: /boards/bd845-pwb/troubleshooting
+[contact us]: /contacts

@@ -13,11 +13,10 @@ permalink: /boards/bd845-pwb
 A clone of the original DanceDanceRevolution GN845-PWB(B) Stage I/O board.
 {: .fs-6 .fw-300 }
 
-[Github project](https://github.com/bluedot-arcade/bd845-pwb-board){: .btn .mr-2 .mb-4 }
-[Latest firmware](https://github.com/bluedot-arcade/bd845-pwb-firmware/releases){: .btn .mr-2 .mb-4 }
-[Schematic diagrams](https://github.com/bluedot-arcade/bd845-pwb-firmware/releases){: .btn .mr-2 .mb-4 }
-[Mechanical drawings](https://github.com/bluedot-arcade/bd845-pwb-firmware/releases){: .btn .mr-2 .mb-4 }
-
+[Github project]{: .btn .mr-2 .mb-4 }
+[Latest firmware]{: .btn .mr-2 .mb-4 }
+[Schematic diagrams]{: .btn .mr-2 .mb-4 }
+[Mechanical drawings]{: .btn .mr-2 .mb-4 }
 
 ![BD845-PWB-Front](../../assets/images/bd845-pwb-front-v1.0.0.png)
 PCB Front layer
@@ -48,6 +47,14 @@ PCB Back layer
 | Mounting hole diamter        | 4 mm              |
 | Product code                 | 001               |
 
-{: .mt-4 }
-
 ## Pinout diagram
+
+{: .note-title }
+> TODO
+>
+> Add pinout diagram.
+
+[Github project]: https://github.com/bluedot-arcade/bd845-pwb-board
+[Schematic diagrams]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/sch_bd845-pwb_v1.0.0.pdf
+[Latest firmware]: https://github.com/bluedot-arcade/bd845-pwb-firmware/releases
+[Mechanical drawings]: https://github.com/bluedot-arcade/bd845-pwb-firmware/releases
