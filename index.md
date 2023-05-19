@@ -9,7 +9,7 @@ permalink: /
 # BlueDot's Documentation
 {: .fs-9 }
 
-We design electronic boards for arcade games.
+We design electronic devices for arcade games.
 {: .fs-6 .fw-300 }
 
 [View boards](/boards/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
