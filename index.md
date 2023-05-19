@@ -12,7 +12,7 @@ permalink: /
 We design electronic devices for arcade games.
 {: .fs-6 .fw-300 }
 
-[View boards](/boards/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View boards][Boards Page]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Go to the Shop][BlueDot Shop]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -60,7 +60,8 @@ But every contribution is welcome! Feel free to [contact us][Contacts Page] and 
 
 [Vincenzo Fortunato]: https://github.com/vinsfortunato
 [Marco Ruggiero]: https://www.instagram.com/ruggiero.design/
-[BlueDot Shop]: shop.bluedotarcade.com
+[BlueDot Shop]: https://shop.bluedotarcade.com
 [BlueDot GitHub]: https://github.com/bluedot-arcade/
 [Just the Docs]: https://just-the-docs.com
 [Contacts Page]: /contacts
+[Boards Page]: /boards
