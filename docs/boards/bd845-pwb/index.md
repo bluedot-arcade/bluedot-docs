@@ -8,14 +8,46 @@ permalink: /boards/bd845-pwb
 ---
 
 # BD845-PWB
-A clone of the original DanceDanceRevolution GN845-PWB Stage I/O Board.
+{: .no_toc }
+
+A clone of the original DanceDanceRevolution GN845-PWB(B) Stage I/O board.
 {: .fs-6 .fw-300 }
 
-PCB Front layer:
+[Github project](https://github.com/bluedot-arcade/bd845-pwb-board){: .btn .mr-2 .mb-4 }
+[Latest firmware](https://github.com/bluedot-arcade/bd845-pwb-firmware/releases){: .btn .mr-2 .mb-4 }
+[Schematic diagrams](https://github.com/bluedot-arcade/bd845-pwb-firmware/releases){: .btn .mr-2 .mb-4 }
+[Mechanical drawings](https://github.com/bluedot-arcade/bd845-pwb-firmware/releases){: .btn .mr-2 .mb-4 }
+
+
 ![BD845-PWB-Front](../../assets/images/bd845-pwb-front-v1.0.0.png)
+PCB Front layer
+{: .text-center }
 
-PCB Back layer:
+## Overview
+
+{: .note-title }
+> TODO
+>
+> Add an overview of the board and its features.
+
 ![BD845-PWB-Back](../../assets/images/bd845-pwb-back-v1.0.0.png)
+PCB Back layer
+{: .text-center }
 
-Original Konami GN845-PWB:
-![GN845-PWB-Front](../../assets/images/konami-gn845-pwb-front.jpg)
+## Tech specs
+
+|:-----------------------------|:------------------|
+| Input voltage (recommended)  | 12V               | 
+| Input voltage (limit)        | 9-15V             |
+| Power consumption            | ? W               |
+| Light driver power (max)     | 36 W              |
+| Width                        | 110 mm            |
+| Length                       | 185 mm            |
+| Height                       | 15 mm             |
+| Weight                       | ? gr              |
+| Mounting hole diamter        | 4 mm              |
+| Product code                 | 001               |
+
+{: .mt-4 }
+
+## Pinout diagram

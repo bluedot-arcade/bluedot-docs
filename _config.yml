@@ -1,11 +1,33 @@
 title: BlueDot Documentation
 description: BlueDot products documentation.
 theme: just-the-docs
-
 url: https://docs.bluedotarcade.com
 
 aux_links:
   Github repository: https://github.com/bluedot-arcade/bluedot-docs
+
+# Logo and icon
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer
+footer_content: "Copyright &copy; 2022-2023 BlueDot Arcade. This site is powered by <a href=\"https://pages.github.com\">Github Pages.</a>"
+
+# Footer last edited timestamp
+last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/bluedot-arcade/bluedot-docs" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme
 color_scheme: bluelight
@@ -26,15 +48,3 @@ callouts:
   warning:
     title: Warning
     color: red
-
-
-# Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
-
-# Logo and icon
-logo: "/assets/images/logo.png"
-favicon_ico: "/assets/images/favicon.ico"
-
-# Footer
-footer_content: "Copyright &copy; 2022-2023 BlueDot Arcade. This site is powered by <a href=\"https://pages.github.com\">Github Pages.</a>"

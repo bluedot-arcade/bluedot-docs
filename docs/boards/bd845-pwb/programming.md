@@ -7,4 +7,8 @@ nav_order: 2
 permalink: /boards/bd845-pwb/programming
 ---
 
-# BD845-PWB - Programming Guide
+# BD845-PWB - Programming guide
+{: .no_toc }
+
+How to program the board with an updated/custom firmware.
+{: .fs-6 .fw-300 }

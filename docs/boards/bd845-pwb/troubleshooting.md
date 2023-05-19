@@ -7,7 +7,7 @@ nav_order: 4
 permalink: /boards/bd845-pwb/troubleshooting
 ---
 
-# BD845-PWB - Troubleshooting
+# BD845-PWB - Troubleshooting guide
 {: .no_toc }
 
 A guide to help you when something does not work.

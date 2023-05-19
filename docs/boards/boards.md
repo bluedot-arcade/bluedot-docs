@@ -25,10 +25,8 @@ List of all BlueDot's boards.
 
 A clone of the original Konami GN845-PWB(B) Stage I/O board for DDR machines.
 
-[View documentation](/boards/bd845-pwb/){: .btn .btn-blue .mr-2 }
-[Github project](https://github.com/bluedot-arcade/bd845-pwb-board){: .btn .mr-2 }
-[Latest firmware](https://github.com/bluedot-arcade/bd845-pwb-firmware/releases){: .btn .mr-2 }
+[View documentation](/boards/bd845-pwb){: .btn .btn-blue .mr-2 .mb-4 }
+[Github project](https://github.com/bluedot-arcade/bd845-pwb-board){: .btn .mr-2 .mb-4 }
 
 
 ![BD845-PWB-Front](../../assets/images/bd845-pwb-front-v1.0.0.png)
-
