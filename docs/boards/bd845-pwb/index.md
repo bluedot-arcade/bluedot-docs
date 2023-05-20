@@ -44,7 +44,7 @@ PCB Back layer
 | Length                       | 185 mm            |
 | Height                       | 15 mm             |
 | Weight                       | ? gr              |
-| Mounting hole diamter        | 4 mm              |
+| Mounting hole diameter       | 4 mm              |
 | Product code                 | 001               |
 
 ## Pinout diagram
