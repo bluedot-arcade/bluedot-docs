@@ -38,12 +38,12 @@ PCB Back layer
 |:-----------------------------|:------------------|
 | Input voltage (recommended)  | 12V               | 
 | Input voltage (limit)        | 9-15V             |
-| Power consumption            | ? W               |
+| Power consumption (idle)     | 0.22W             |
 | Light driver power (max)     | 36 W              |
 | Width                        | 110 mm            |
 | Length                       | 185 mm            |
 | Height                       | 15 mm             |
-| Weight                       | ? gr              |
+| Weight                       | 90 gr             |
 | Mounting hole diameter       | 4 mm              |
 | Product code                 | 001               |
 
