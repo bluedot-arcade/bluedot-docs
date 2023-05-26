@@ -57,4 +57,4 @@ PCB Back layer
 [Github project]: https://github.com/bluedot-arcade/bd845-pwb-board
 [Schematic diagrams]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/sch_bd845-pwb_v1.0.0.pdf
 [Latest firmware]: https://github.com/bluedot-arcade/bd845-pwb-firmware/releases
-[Mechanical drawings]: https://github.com/bluedot-arcade/bd845-pwb-firmware/releases
+[Mechanical drawings]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/draw_bd845-pwb_v1.0.0.pdf
