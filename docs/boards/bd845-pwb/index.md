@@ -38,13 +38,13 @@ PCB Back layer
 |:-----------------------------|:------------------|
 | Input voltage (recommended)  | 12V               | 
 | Input voltage (limit)        | 9-15V             |
-| Power consumption            | ? W               |
+| Power consumption (idle)     | 0.22W             |
 | Light driver power (max)     | 36 W              |
 | Width                        | 110 mm            |
 | Length                       | 185 mm            |
 | Height                       | 15 mm             |
-| Weight                       | ? gr              |
-| Mounting hole diamter        | 4 mm              |
+| Weight                       | 90 gr             |
+| Mounting hole diameter       | 4 mm              |
 | Product code                 | 001               |
 
 ## Pinout diagram
@@ -57,4 +57,4 @@ PCB Back layer
 [Github project]: https://github.com/bluedot-arcade/bd845-pwb-board
 [Schematic diagrams]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/sch_bd845-pwb_v1.0.0.pdf
 [Latest firmware]: https://github.com/bluedot-arcade/bd845-pwb-firmware/releases
-[Mechanical drawings]: https://github.com/bluedot-arcade/bd845-pwb-firmware/releases
+[Mechanical drawings]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/draw_bd845-pwb_v1.0.0.pdf
