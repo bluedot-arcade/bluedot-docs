@@ -49,10 +49,7 @@ PCB Back layer
 
 ## Pinout diagram
 
-{: .note-title }
-> TODO
->
-> Add pinout diagram.
+![BD845-PWB-Pinout](../../assets/images/bd845-pwb-pinout-v1.0.0.png)
 
 [Github project]: https://github.com/bluedot-arcade/bd845-pwb-board
 [Schematic diagrams]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/sch_bd845-pwb_v1.0.0.pdf
