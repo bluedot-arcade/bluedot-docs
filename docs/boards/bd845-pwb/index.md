@@ -39,7 +39,7 @@ PCB Back layer
 | Input voltage (recommended)  | 12V               | 
 | Input voltage (limit)        | 9-15V             |
 | Power consumption (idle)     | 0.22W             |
-| Light driver power (max)     | 36 W              |
+| Light driver power (max)     | 20 W              |
 | Width                        | 110 mm            |
 | Length                       | 185 mm            |
 | Height                       | 15 mm             |
