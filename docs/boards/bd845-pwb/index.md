@@ -37,7 +37,7 @@ PCB Front layer
 
 This board was designed as a drop in replacement clone board for the Konami [GN845-PWB(B)](/boards/bd845-pwb/gn845-pwb) Stage I/O board. 
 
-It emulates the original DDR Stage I/O communication protocol boot sequence allowing to run the game without an IO Che### Singleck Bypass. Other protocol features are currently not supported.
+It emulates the original DDR Stage I/O communication protocol boot sequence allowing to run the game without an IO Check Bypass. Other protocol features are currently not supported.
 
 It also provides additional features such as debouncing and a Light-On-Press mode that lights up the arrow light when pressed without the need of an external lights driver board.
 
