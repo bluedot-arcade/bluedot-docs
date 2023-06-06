@@ -29,7 +29,7 @@ Check [DIP switches](/boards/bd845-pwb/#dip-switches) section for more informati
 | Debounce                     | ON/OFF            |
 | Legacy mode                  | ON                |
 
-### DDR Cabinet with Stepmania/OpenITG with JPAC + LumenARLITBoard or Minimaid
+### DDR Cabinet with Stepmania/OpenITG with JPAC + LumenAR/LITBoard or Minimaid
 
 | DIP switch option            | Recommended value | 
 |:-----------------------------|:------------------|
