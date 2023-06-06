@@ -15,3 +15,8 @@ The original Konami DanceDanceRevolution Stage I/O board.
 ![GN845-PWB-Front](../../assets/images/konami-gn845-pwb-front.jpg)
 A photo of the Konami GN845-PWB(B)
 {: .text-center }
+
+{: .note-title }
+> TODO
+>
+> Add a description of the board and useful links.
