@@ -12,3 +12,8 @@ permalink: /boards/bd845-pwb/programming
 
 How to program the board with an updated/custom firmware.
 {: .fs-6 .fw-300 }
+
+{: .note-title }
+> TODO 
+>
+> Add programming steps.

@@ -106,6 +106,16 @@ Reverse engineering the communication protocol is not an easy task since it is a
 
 Yes! Just like the original board. You can disable the legacy mode option since it is not required on this setup.
 
+## Why should I get this board instead of the original one?
+
+If you need this board it probably means that the original one you have is broken. In most cases it can be fixed by replacing some components but it requires some time and expertise. But if the broken component is the CPLD there is not very much you can do unfortunately. 
+
+It is not very easy to find original working boards these days.
+
+Also, in the datasheet of the XC9536 CPLD Xilinx guarantees a data retention of minimum 20 years. While it does not specify if it is calculated when unpowered or during normal operation, in the worst case that means original boards will probably fail in the following years.
+
+The BD845-PWB board aim to resolve these problems. Also by being open-source it is designed to be repaired and updated, and if we stop producing them nothing prevents someone else to make it instead.
+
 ## My board is not working. What can I do?
 
 Oh no! Check the [troubleshooting guide]. If that does not help, you can [contact us].

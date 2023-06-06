@@ -19,4 +19,8 @@ A guide to help you when something does not work.
 1. TOC
 {:toc}
 
+{: .note-title }
+> TODO 
+>
+> Add troubleshooting guide.
 
