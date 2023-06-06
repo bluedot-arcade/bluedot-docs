@@ -27,21 +27,11 @@ Yes! This board was designed as a clone of the original GN845-PWB(B) DanceDanceR
 
 ## Are lights supported?
 
-Yes! Just like the original board. There is also an additional feature that turn on the panel light it is pressed without the need of an external lights driver (check [here]() for more info).
-
-{: .note-title }
-> TODO
->
-> Fix link to light-on-press mode documentation.
+Yes! Just like the original board. There is also an additional feature that turn on the panel light it is pressed without the need of an external lights driver. Check [here][light on press mode] for more info.
 
 ## Do I need an external lights controller?
 
-Yes if you want the lights to be turned on/off by the game, just like the original board. But if you just want to turn the panel light on when it is pressed you can enable the [LIGHT ON PRESS]() mode by simply toggling a switch on the board.
-
-{: .note-title }
-> TODO
->
-> Fix link to light-on-press mode documentation.
+Yes if you want the lights to be turned on/off by the game, just like the original board. But if you just want to turn the panel light on when it is pressed you can enable the [LIGHT ON PRESS][light on press mode] mode by simply toggling a switch on the board.
 
 ## Can it drive original neon lights?
 
@@ -102,9 +92,18 @@ This way every DDR game that boots correctly on MAME will also boot with this cl
 
 Reverse engineering the communication protocol is not an easy task since it is a very strange and slow serial communication protocol. That is why we decided to use a proven emulation method.
 
+## Can I upload a custom firmware?
+
+By being an open-source project there is nothing that stops you from uploading a firmware on the MCU.
+Check the dedicated [programming guide] on how to upload a firmware.
+
 ## Can I use this board on a cabinet with Stepmania/ITG?
 
 Yes! Just like the original board. You can disable the legacy mode option since it is not required on this setup.
+
+## Can I use this board on a Pump It Up cabinet?
+
+No. Currently it is not meant to be used on Pump It Up stages.
 
 ## Why should I get this board instead of the original one?
 
@@ -120,11 +119,7 @@ The BD845-PWB board aim to resolve these problems. Also by being open-source it 
 
 Oh no! Check the [troubleshooting guide]. If that does not help, you can [contact us].
 
-## Can I upload a custom firmware?
-
-By being an open-source project there is nothing that stops you from uploading a firmware on the MCU.
-Check the dedicated [programming guide] on how to upload a firmware.
-
+[light on press mode]: /boards/bd845-pwb/#light-on-press
 [programming guide]: /boards/bd845-pwb/programming
 [troubleshooting guide]: /boards/bd845-pwb/troubleshooting
 [contact us]: /contacts
