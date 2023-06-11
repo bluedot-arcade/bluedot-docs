@@ -23,10 +23,10 @@ A clone of the original DanceDanceRevolution GN845-PWB(B) Stage I/O board.
 PCB Front layer
 {: .text-center }
 
-- [Overview](/boards/bd845-pwb/#overview)
-- [Tech specs](/boards/bd845-pwb/#tech-specs)
-- [Pinout diagram](/boards/bd845-pwb/#pinout-diagram)
-- [DIP switches](/boards/bd845-pwb/#dip-switches)
+- [Overview](/boards/bd845-pwb#overview)
+- [Tech specs](/boards/bd845-pwb#tech-specs)
+- [Pinout diagram](/boards/bd845-pwb#pinout-diagram)
+- [DIP switches](/boards/bd845-pwb#dip-switches)
 - [Installation](/boards/bd845-pwb/installation)
 - [Programming](/boards/bd845-pwb/programming)
 - [FAQs](/boards/bd845-pwb/faqs)
