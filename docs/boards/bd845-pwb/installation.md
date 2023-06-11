@@ -18,7 +18,7 @@ permalink: /boards/bd845-pwb/installation
 
 A list of typical setups and the recommended DIP switches configuration.
 
-Check [DIP switches](/boards/bd845-pwb/#dip-switches) section for more information.
+Check [DIP switches](/boards/bd845-pwb#dip-switches) section for more information.
 
 ### DDR Cabinet with DDR game
 
