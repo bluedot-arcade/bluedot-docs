@@ -119,12 +119,8 @@ The BD845-PWB board aim to resolve these problems. Also by being open-source it 
 
 Oh no! Check the [troubleshooting guide]. If that does not help, you can [contact us].
 
-<<<<<<< HEAD
 [installation guide]: /boards/bd845-pwb/installation
-[light on press mode]: /boards/bd845-pwb/#light-on-press
-=======
 [light on press mode]: /boards/bd845-pwb#light-on-press
->>>>>>> refs/remotes/origin/develop
 [programming guide]: /boards/bd845-pwb/programming
 [troubleshooting guide]: /boards/bd845-pwb/troubleshooting
 [contact us]: /contacts

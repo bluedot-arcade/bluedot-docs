@@ -23,7 +23,6 @@ A clone of the original DanceDanceRevolution GN845-PWB(B) Stage I/O board.
 PCB Front layer
 {: .text-center }
 
-<<<<<<< HEAD
 - [Overview]
 - [Tech specs]
 - [Pinout diagram]
@@ -33,17 +32,6 @@ PCB Front layer
 - [FAQs]
 - [Troubleshooting]
 - [Konami GN845-PWB(B)]
-=======
-- [Overview](/boards/bd845-pwb#overview)
-- [Tech specs](/boards/bd845-pwb#tech-specs)
-- [Pinout diagram](/boards/bd845-pwb#pinout-diagram)
-- [DIP switches](/boards/bd845-pwb#dip-switches)
-- [Installation](/boards/bd845-pwb/installation)
-- [Programming](/boards/bd845-pwb/programming)
-- [FAQs](/boards/bd845-pwb/faqs)
-- [Troubleshooting](/boards/bd845-pwb/troubleshooting)
-- [Konami GN845-PWB(B)](/boards/bd845-pwb/gn845-pwb)
->>>>>>> refs/remotes/origin/develop
 
 ## Overview
 
@@ -127,7 +115,6 @@ Some games like Stepmania supports software debouncing. If software debouncing i
 When **ON** the board will listen for original DDR boot command and reply to it. This is required to pass the IO Check on original DDR games.
 
 When **OFF** the board will ignore the DDR boot command.
-<<<<<<< HEAD
 
 [Overview]: /boards/bd845-pwb#overview
 [Tech specs]: /boards/bd845-pwb#tech-specs
@@ -143,5 +130,3 @@ When **OFF** the board will ignore the DDR boot command.
 [Schematic diagrams]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/sch_bd845-pwb_v1.0.0.pdf
 [Latest firmware]: https://github.com/bluedot-arcade/bd845-pwb-firmware/releases
 [Mechanical drawings]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/draw_bd845-pwb_v1.0.0.pdf
-=======
->>>>>>> refs/remotes/origin/develop
