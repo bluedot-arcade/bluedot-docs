@@ -23,7 +23,7 @@ Frequently asked questions about the board.
 
 ## Do I just need to swap the boards?
 
-Yes! This board was designed as a clone of the original GN845-PWB(B) DanceDanceRevolution Stage IO PCB. Just swap this board with the original one and you are ready to play.
+Yes! This board was designed as a clone of the original GN845-PWB(B) DanceDanceRevolution Stage IO PCB. Just swap this board with the original one and you are ready to play. Check the [installation guide] for more information.
 
 ## Are lights supported?
 
@@ -119,6 +119,7 @@ The BD845-PWB board aim to resolve these problems. Also by being open-source it 
 
 Oh no! Check the [troubleshooting guide]. If that does not help, you can [contact us].
 
+[installation guide]: /boards/bd845-pwb/installation
 [light on press mode]: /boards/bd845-pwb#light-on-press
 [programming guide]: /boards/bd845-pwb/programming
 [troubleshooting guide]: /boards/bd845-pwb/troubleshooting

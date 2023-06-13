@@ -23,15 +23,15 @@ A clone of the original DanceDanceRevolution GN845-PWB(B) Stage I/O board.
 PCB Front layer
 {: .text-center }
 
-- [Overview](/boards/bd845-pwb#overview)
-- [Tech specs](/boards/bd845-pwb#tech-specs)
-- [Pinout diagram](/boards/bd845-pwb#pinout-diagram)
-- [DIP switches](/boards/bd845-pwb#dip-switches)
-- [Installation](/boards/bd845-pwb/installation)
-- [Programming](/boards/bd845-pwb/programming)
-- [FAQs](/boards/bd845-pwb/faqs)
-- [Troubleshooting](/boards/bd845-pwb/troubleshooting)
-- [Konami GN845-PWB(B)](/boards/bd845-pwb/gn845-pwb)
+- [Overview]
+- [Tech specs]
+- [Pinout diagram]
+- [DIP switches]
+- [Installation]
+- [Programming]
+- [FAQs]
+- [Troubleshooting]
+- [Konami GN845-PWB(B)]
 
 ## Overview
 
@@ -42,6 +42,8 @@ It emulates the original DDR Stage I/O communication protocol boot sequence allo
 It also provides additional features such as debouncing and a Light-On-Press mode that lights up the arrow light when pressed without the need of an external lights driver board.
 
 The board can also be re-programmed with a custom/updated firmware. 
+
+If you have this board and want to install it correctly check the [installation guide][Installation]. Also have a look at the [FAQs] which will answer a lot of your questions.
 
 ![BD845-PWB-Back](../../assets/images/bd845-pwb-back-v1.0.0.png)
 PCB Back layer
@@ -63,12 +65,7 @@ PCB Back layer
 
 ## Pinout diagram
 
-![BD845-PWB-Pinout](../../assets/images/bd845-pwb-pinout-v1.0.0.png)
-
-[Github project]: https://github.com/bluedot-arcade/bd845-pwb-board
-[Schematic diagrams]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/sch_bd845-pwb_v1.0.0.pdf
-[Latest firmware]: https://github.com/bluedot-arcade/bd845-pwb-firmware/releases
-[Mechanical drawings]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/draw_bd845-pwb_v1.0.0.pdf
+![BD845-PWB-Pinout](../../assets/images/bd845-pwb-pinout-v1.0.0.jpg)
 
 ## DIP switches
 
@@ -77,7 +74,7 @@ On the bottom side of the board there are four DIP switches that allows you to c
 To turn **ON** an option put the corresponding toggle in the up position corresponding to the ON text. The lower position
 corresponds to **OFF**.
 
-Check the [installation guide](/boards/bd845-pwb/installation) to know the proper configuration based on your cabinet setup.
+Check the [installation guide][Installation] to know the proper configuration based on your cabinet setup.
 
 ![BD845-PWB-DIP-SW](/assets/images/bd845-pwb-dip-sw-v1.0.0.png)
 
@@ -98,7 +95,7 @@ When **OFF** the BOOT0 pin of the STM32 MCU will be tied to GND. This puts the b
 In almost any case this must be set to **OFF**. Refer to the official STM32 documentation for more information about the BOOT0 pin.
 
 {: .warning }
-If this option is set to **ON** the board will not work! For normal operation is must be set to **OFF**.
+If this option is set to **ON** the board will not work! For normal operation it must be set to **OFF**.
 
 ### Debounce
 {: .no_toc }
@@ -118,3 +115,18 @@ Some games like Stepmania supports software debouncing. If software debouncing i
 When **ON** the board will listen for original DDR boot command and reply to it. This is required to pass the IO Check on original DDR games.
 
 When **OFF** the board will ignore the DDR boot command.
+
+[Overview]: /boards/bd845-pwb#overview
+[Tech specs]: /boards/bd845-pwb#tech-specs
+[Pinout diagram]: /boards/bd845-pwb#pinout-diagram
+[DIP switches]: /boards/bd845-pwb#dip-switches
+[Installation]: /boards/bd845-pwb/installation
+[Programming]: /boards/bd845-pwb/programming
+[FAQs]: /boards/bd845-pwb/faqs
+[Troubleshooting]: /boards/bd845-pwb/troubleshooting
+[Konami GN845-PWB(B)]: /boards/bd845-pwb/gn845-pwb
+[What is debouncing?]: /boards/bd845-pwb/faqs#what-is-debouncing
+[Github project]: https://github.com/bluedot-arcade/bd845-pwb-board
+[Schematic diagrams]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/sch_bd845-pwb_v1.0.0.pdf
+[Latest firmware]: https://github.com/bluedot-arcade/bd845-pwb-firmware/releases
+[Mechanical drawings]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/draw_bd845-pwb_v1.0.0.pdf
