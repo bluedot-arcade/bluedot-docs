@@ -76,7 +76,7 @@ Cable wiring diagram using original DDR cabinet wirings.
 
 Configure DIP switches in the bottom of the board according to your preference. 
 
-Below there is a list of typical setups and the recommended DIP switches configuration. Check [DIP switches](/boards/bd845-pwb/#dip-switches) section for more information.
+Check [DIP switches] section for more information.
 
 #### DDR Cabinet with DDR game
 
@@ -107,11 +107,5 @@ This setup requires the legacy mode option to be set to **ON**. The game will no
 | Debounce                     | ON/OFF            |
 | Legacy mode                  | OFF               |
 
-This setup does not have a lights driver board. Setting light on press mode to **ON** is recommended.
 
-[pinout diagram]: /boards/bd845-pwb#pinout-diagram
-[DIP switches]: /boards/bd845-pwb/#dip-switches
-
-### 6. Close the installation panel
-
-Close the installation panel of the pad by screwing first the metal support structure and then the stainless-steel panel.
+[DIP switches]: /boards/bd845-pwb#dip-switches
