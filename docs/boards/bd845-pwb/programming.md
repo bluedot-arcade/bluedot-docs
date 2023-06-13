@@ -32,7 +32,7 @@ You can find the latest firmware [here][latest firmware].
 
 ## Prerequisites
 
-Before programming you need some equiment and to setup your system.
+Before programming you need some equipment and to setup your system.
 
 ### Hardware requisites
 
@@ -56,9 +56,8 @@ Required jumper wires.
 
 ### Software requisites
 
-1. [Install git]: this is required to clone the repository with the firmware code.
-2. [Install PlatformIO CLI]: this is required to build and upload the firmware to the board. 
-
+- [Install git][Install git]: this is required to clone the repository with the firmware code.
+- [Install PlatformIO CLI][Install PlatformIO CLI]: this is required to build and upload the firmware to the board. 
 
 We decided to use [PlatformIO] which is a tool that helps managing projects for embedded systems. It is very easy to use and also comes with a cool support for Visual Studio Code turning it into an embedded developer IDE.
 
@@ -95,14 +94,14 @@ This will create a folder named ```.pio``` with all the built files.
 
 ### 2. Connect the programmer to the board
 
-Connect the external programmer the board. You can either use jumper wires or a TC2030 TagConnect cable. Jumper wires are probably the most accessible option.
+Connect the external programmer to the board. You can either use jumper wires or a TC2030 TagConnect cable. Jumper wires are probably the most accessible option.
 
 The MCU requires a +3.3V. Programmers often come with both +3.3V and +5V. Only the +3.3V is required.
 
 {: .warning }
 > Double check connections before powering it up! Inverting the polarity of the power pins or supplying an higher voltage than +3.3V will damage the board!
 
-Connect the wires according to the following pinout diagram. Jumper wires connects to the SWD header in the picture.
+Connect the wires according to the following pinout diagram. Jumper wires connect to the SWD header in the picture.
 
 ![BD845-PWB-Programming-Wiring]
 Pinout of the programming headers. Check [here][pinout diagram] for the full pinout.
@@ -110,7 +109,7 @@ Pinout of the programming headers. Check [here][pinout diagram] for the full pin
 
 ### 3. Connect the programmer to the computer
 
-Connect the programmer to the computer with the USB cable. You will probably be required to installed the programmer drivers. Check the programmer documentation.
+Connect the programmer to the computer with the USB cable. You will probably be required to install the programmer drivers. Check the programmer documentation.
 
 When connected properly the **POWER** LED on the board will light up.
 
