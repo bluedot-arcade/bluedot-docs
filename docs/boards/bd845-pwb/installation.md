@@ -10,7 +10,7 @@ permalink: /boards/bd845-pwb/installation
 # BD845-PWB - Installation Guide
 {: .no_toc }
 
-A guide to help you install the board on diffent setups.
+How to install the board on diffent setups.
 {: .fs-6 .fw-300 }
 
 Installing the board is very easy and does not require any technical expertise. Although being easy, here is a detailed guide on how to do it.
