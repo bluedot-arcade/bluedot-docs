@@ -98,7 +98,7 @@ When **OFF** the BOOT0 pin of the STM32 MCU will be tied to GND. This puts the b
 In almost any case this must be set to **OFF**. Refer to the official STM32 documentation for more information about the BOOT0 pin.
 
 {: .warning }
-If this option is set to **ON** the board will not work! For normal operation is must be set to **OFF**.
+If this option is set to **ON** the board will not work! For normal operation it must be set to **OFF**.
 
 ### Debounce
 {: .no_toc }
