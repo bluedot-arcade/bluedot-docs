@@ -43,7 +43,10 @@ It also provides additional features such as debouncing and a Light-On-Press mod
 
 The board can also be re-programmed with a custom/updated firmware. 
 
-If you have this board and want to install it correctly check the [installation guide][Installation]. Also have a look at the [FAQs] which will answer a lot of your questions.
+### If you have this board
+* Identify your version by looking at the version written under the logo. If you don't have the latest version you can still get schematic diagrams from the [changelog page].
+* Read the [installation guide][Installation] if you want to know how to install it correctly.
+* Read the [FAQs] which will answer to a lot of your questions.
 
 ![BD845-PWB-Back](/assets/images/bd845-pwb/v1.1.0/bd845-pwb-back-v1.1.0.png)
 PCB Back layer
@@ -51,17 +54,19 @@ PCB Back layer
 
 ## Tech specs
 
-|:-----------------------------|:------------------|
-| Input voltage (recommended)  | 12V               | 
-| Input voltage (limit)        | 9-15V             |
-| Power consumption (idle)     | 0.22W             |
-| Light driver power (max)     | 20 W              |
-| Width                        | 110 mm            |
-| Length                       | 185 mm            |
-| Height                       | 15 mm             |
-| Weight                       | 90 gr             |
-| Mounting hole diameter       | 4 mm              |
-| Product code                 | 001               |
+|:---------------------------------|:------------------|
+| Input voltage (recommended)      | 12V               | 
+| Input voltage (limit)            | 9-15V             |
+| Power consumption (idle) [^1]    | 0.22W             |
+| Light power (max) @ +12V         | 15W               |
+| Light driver current (max)       | 1.25A             |
+| Output response time (max) [^2]  | 50uS              |
+| Width                            | 110mm             |
+| Length                           | 185mm             |
+| Height                           | 15mm              |
+| Weight                           | 90gr              |
+| Mounting hole diameter           | 4mm               |
+| Product code                     | 001               |
 
 ## Pinout diagram
 
@@ -116,6 +121,12 @@ When **ON** the board will listen for original DDR boot command and reply to it.
 
 When **OFF** the board will ignore the DDR boot command.
 
+----
+
+[^1]: Calculated when the board is idle with all lights and sensors off.
+
+[^2]: This is the time required for the output to react to a change of a sensor input.
+
 [Overview]: /boards/bd845-pwb#overview
 [Tech specs]: /boards/bd845-pwb#tech-specs
 [Pinout diagram]: /boards/bd845-pwb#pinout-diagram
@@ -130,3 +141,4 @@ When **OFF** the board will ignore the DDR boot command.
 [Schematic diagrams]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/sch_bd845-pwb.pdf
 [Latest firmware]: https://github.com/bluedot-arcade/bd845-pwb-firmware/releases
 [Mechanical drawings]: https://github.com/bluedot-arcade/bd845-pwb-board/blob/master/draw_bd845-pwb.pdf
+[changelog page]: /boards/bd845-pwb/changelog

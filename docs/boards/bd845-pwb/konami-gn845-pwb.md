@@ -3,7 +3,7 @@ layout: default
 title: Konami GN845-PWB(B)
 grand_parent: Boards
 parent: BD845-PWB
-nav_order: 5
+nav_order: 6
 permalink: /boards/bd845-pwb/gn845-pwb
 ---
 
