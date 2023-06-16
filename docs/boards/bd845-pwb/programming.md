@@ -131,4 +131,4 @@ You now have your custom/updated firmware already running onto the board. Discon
 [Install PlatformIO CLI]: https://docs.platformio.org/en/latest/core/index.html
 [PlatformIO]: https://docs.platformio.org/en/latest/what-is-platformio.html
 [pinout diagram]: /boards/bd845-pwb#pinout-diagram
-[BD845-PWB-Programming-Wiring]: /assets/images/bd845-pwb-programming-wiring.jpg
+[BD845-PWB-Programming-Wiring]: /assets/images/bd845-pwb/v1.1.0/bd845-pwb-programming-wiring-v1.1.0.jpg

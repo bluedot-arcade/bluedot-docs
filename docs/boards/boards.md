@@ -29,4 +29,4 @@ A clone of the original Konami GN845-PWB(B) Stage I/O board for DDR machines.
 [Github project](https://github.com/bluedot-arcade/bd845-pwb-board){: .btn .mr-2 .mb-4 }
 
 
-![BD845-PWB-Front](../../assets/images/bd845-pwb-front-v1.0.0.png)
+![BD845-PWB-Front](/assets/images/bd845-pwb/v1.1.0/bd845-pwb-front-v1.1.0.png)

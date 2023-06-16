@@ -12,7 +12,7 @@ permalink: /boards/bd845-pwb/gn845-pwb
 The original Konami DanceDanceRevolution Stage I/O board.
 {: .fs-6 .fw-300 }
 
-![GN845-PWB-Front](../../assets/images/konami-gn845-pwb-front.jpg)
+![GN845-PWB-Front](/assets/images/bd845-pwb/konami-gn845-pwb-front.jpg)
 A photo of the Konami GN845-PWB(B)
 {: .text-center }
 

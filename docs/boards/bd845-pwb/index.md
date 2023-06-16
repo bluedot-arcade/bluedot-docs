@@ -19,7 +19,7 @@ A clone of the original DanceDanceRevolution GN845-PWB(B) Stage I/O board.
 [Schematic diagrams]{: .btn .mr-2 .mb-4 }
 [Mechanical drawings]{: .btn .mr-2 .mb-4 }
 
-![BD845-PWB-Front](../../assets/images/bd845-pwb-front-v1.0.0.png)
+![BD845-PWB-Front](/assets/images/bd845-pwb/v1.1.0/bd845-pwb-front-v1.1.0.png)
 PCB Front layer
 {: .text-center }
 
@@ -45,7 +45,7 @@ The board can also be re-programmed with a custom/updated firmware.
 
 If you have this board and want to install it correctly check the [installation guide][Installation]. Also have a look at the [FAQs] which will answer a lot of your questions.
 
-![BD845-PWB-Back](../../assets/images/bd845-pwb-back-v1.0.0.png)
+![BD845-PWB-Back](/assets/images/bd845-pwb/v1.1.0/bd845-pwb-back-v1.1.0.png)
 PCB Back layer
 {: .text-center }
 
@@ -65,7 +65,7 @@ PCB Back layer
 
 ## Pinout diagram
 
-![BD845-PWB-Pinout](../../assets/images/bd845-pwb-pinout-v1.0.0.jpg)
+![BD845-PWB-Pinout](/assets/images/bd845-pwb/v1.1.0/bd845-pwb-pinout-v1.1.0.jpg)
 
 ## DIP switches
 
@@ -76,7 +76,7 @@ corresponds to **OFF**.
 
 Check the [installation guide][Installation] to know the proper configuration based on your cabinet setup.
 
-![BD845-PWB-DIP-SW](/assets/images/bd845-pwb-dip-sw-v1.0.0.png)
+![BD845-PWB-DIP-SW](/assets/images/bd845-pwb/v1.1.0/bd845-pwb-dip-sw-v1.1.0.png)
 
 ### Light on press
 {: .no_toc }
