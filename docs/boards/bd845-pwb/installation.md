@@ -68,7 +68,7 @@ If you have the original DDR wiring there should be 6 cables:
 
 Follow the wiring diagram below, and always double check connectors orientation before powering it up.
 
-![BD845-PWB-Wiring](../../assets/images/bd845-pwb-wiring-v1.0.0.jpg)
+![BD845-PWB-Wiring](/assets/images/bd845-pwb/v1.1.0/bd845-pwb-wiring-v1.1.0.jpg)
 Cable wiring diagram using original DDR cabinet wirings.
 {: .text-center }
 
@@ -109,3 +109,4 @@ This setup requires the legacy mode option to be set to **ON**. The game will no
 
 
 [DIP switches]: /boards/bd845-pwb#dip-switches
+[pinout diagram]: /boards/bd845-pwb#pinout-diagram
