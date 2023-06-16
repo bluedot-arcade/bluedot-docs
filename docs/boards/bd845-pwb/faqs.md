@@ -35,7 +35,7 @@ Yes if you want the lights to be turned on/off by the game, just like the origin
 
 ## Can it drive original neon lights?
 
-Yes! Each channel can output a max of 20W (1.66A current max at +12V output).
+Yes! Each channel can have a 15W @ +12V load (1.25A current max).
 
 ## Is it protected against ESD (Electric Static Discharge)?
 
@@ -43,11 +43,18 @@ Yes! Each connector has a protection against ESD and overvoltage spikes. But it 
 
 ## Is there a short-circuit protection?
 
-Partially. The +12V rail is not protected. The +3.3V is. 
+Partially.
 
-That means that if an accidental short of the +12V rail with ground happens a large current will flow if the power supply does not provide short-circuit protection. These can cause big damage. The MCU and other components that use +3.3V rail are be guarded by a resettable fuse. 
+The **MCU** and other components that use +3.3V rail are be guarded by a resettable fuse. 
+
+The **light drivers** use self-protected mosfets (since [v1.1.0]) with over current, over voltage, over temperature and short-circuit protection. A short to a properly wired light will be handled safely. Check the [troubleshooting guide] to know light short symptoms. 
+
+However, looking at the [pinout diagram], if a short of the +12V rail with ground happens a large current will flow if the power supply does not provide short-circuit protection. This can cause big damage to the mosfet near the power connector. 
 
 If you want to be extra careful you can add an in-line fuse holder to the +12V cable just before the connector.
+
+{: .warning }
+Board version before [v1.1.0] does not use self-protected mosfets as light drivers! A short of the light will probably kill the light driver. Be extra careful!
 
 ## Can I use FSR sensors with this board?
 
@@ -119,9 +126,16 @@ The BD845-PWB board aim to resolve these problems. Also by being open-source it 
 
 Oh no! Check the [troubleshooting guide]. If that does not help, you can [contact us].
 
+## Where can I get the schematic diagrams of an old board version?
+
+Check the [changelog] to get all the necessary links to a specific board version. All versions have corresponding tags on the [github project].
+
 [installation guide]: /boards/bd845-pwb/installation
 [light on press mode]: /boards/bd845-pwb#light-on-press
 [programming guide]: /boards/bd845-pwb/programming
 [troubleshooting guide]: /boards/bd845-pwb/troubleshooting
 [contact us]: /contacts
 [MAME]: https://www.mamedev.org/
+[pinout diagram]: /boards/bd845-pwb#pinout-diagram
+[v1.1.0]: /boards/bd845-pwb/changelog#release-v1.1.0
+[github project]: https://github.com/bluedot-arcade/bd845-pwb-board/
