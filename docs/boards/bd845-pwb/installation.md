@@ -109,3 +109,4 @@ This setup requires the legacy mode option to be set to **ON**. The game will no
 
 
 [DIP switches]: /boards/bd845-pwb#dip-switches
+[pinout diagram]: /boards/bd845-pwb#pinout-diagram
