@@ -80,9 +80,9 @@ cd bd845-pwb-firmware
 select the release tag you want to upload by typing the following command:
 
 ```bash
-git checkout v0.0.3
+git checkout v1.0.0
 ```
-Replace ```v0.0.3``` with the version you want to build. You can see the latest version [here][latest firmware].
+Replace ```v1.0.0``` with the version you want to build. You can see the latest version [here][latest firmware].
 
 You now need to build the project by typing the following command:
 ```bash
