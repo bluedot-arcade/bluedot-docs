@@ -43,6 +43,9 @@ It also provides additional features such as debouncing and a Light-On-Press mod
 
 The board can also be re-programmed with a custom/updated firmware. 
 
+{: .warning }
+If you have a Python2 system it will not pass the I/O check at startup with original games with this board. The board currently does not support Python2 games boot I/O check.
+
 ### If you have this board
 * Identify your version by looking at the version written under the logo. If you don't have the latest version you can still get schematic diagrams from the [changelog page].
 * Read the [installation guide][Installation] if you want to know how to install it correctly.
