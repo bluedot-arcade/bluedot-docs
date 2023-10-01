@@ -36,6 +36,9 @@ You can buy our devices from our [shop][BlueDot Shop].
 {: .warning }
 > The shop website is currently not available. Please [contact us][Contacts Page] if you are interested in buying our devices.
 
+You can also buy our devices from these suppliers:
+- https://ddrpad.com/
+
 Buying our products is the best way to support us!
 
 ## Can I make it myself?
