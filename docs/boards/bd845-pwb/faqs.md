@@ -91,6 +91,12 @@ Yes! By being a clone it will work with original hardware and games. The game wi
 However there are still some parts of the original communication protocol between the KSYS573 and the
 stage IO that are still not well understood but they are not critical like the IO check during boot.
 
+## Does it pass the IO Check when Python2 is booting?
+
+No. Currently the IO check on original games (without IO check bypass) will not pass on machines that use Python2 hardware. 
+
+We are working to implement this support in the near future.
+
 ## How did you implement the original DDR communication protocol?
 
 This board emulates the response of the original board to the "Boot IO Check" in the same way that the [MAME] KSYS573 driver do.
